@@ -1,0 +1,11 @@
+## Interface: 80100
+## Title: ChatLinkTooltip
+## Author: mckilem
+## X-Category: Chat
+## Notes: Displays items, quest, etc. pop-ups in game chat on mouse hover
+## Notes-ruRU: Отображение всплывающих подсказок при наведении на предмет, задание, и т.д. в чате
+## SavedVariablesPerCharacter: CLT_Options
+
+localization-enGB.lua
+localization-ruRU.lua
+MBB.xml
